@@ -1,0 +1,6 @@
+.dark-lg {
+  box-shadow: blue 0px 0px 5px 2px;
+}
+/* .link {
+  @apply (flex items-center w-[95%] m-auto shadow-[0px_0px_15px_0px_black] rounded-md hover:shadow-[0px_0px_15px_0px_blue] hover:w-[93%] hover:bg-gray-200);
+} */
