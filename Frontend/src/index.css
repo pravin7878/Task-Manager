@@ -11,3 +11,10 @@
   font-style: normal;
   /* background-color: white; */
 }
+
+.dragging {
+  background-color: aqua;
+  border: solid 2px black;
+  opacity: 1;
+}
+
