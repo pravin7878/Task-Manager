@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Pick up milk, bread, and eggs from the store",
+    "status": "pending",
+    "deadline": "2024-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Finish project report",
+    "description": "Complete the final draft of the project report by Friday",
+    "status": "in_progress",
+    "deadline": "2024-09-22"
+  },
+  {
+    "id": 3,
+    "title": "Call mom",
+    "description": "Check in with mom and see how she's doing",
+    "status": "complete",
+    "deadline": "2024-09-15"
+  },
+  {
+    "id": 4,
+    "title": "Book dentist appointment",
+    "description": "Schedule a check-up for next week",
+    "status": "pending",
+    "deadline": "2024-09-25"
+  },
+  {
+    "id": 5,
+    "title": "Water plants",
+    "description": "Water the indoor and outdoor plants",
+    "status": "pending",
+    "deadline": "2024-09-21"
+  },
+  {
+    "id": 6,
+    "title": "Workout",
+    "description": "Do a 30-minute workout session",
+    "status": "in_progress",
+    "deadline": "2024-09-20"
+  },
+  {
+    "id": 7,
+    "title": "Write blog post",
+    "description": "Write and publish the new blog post on personal website",
+    "status": "in_progress",
+    "deadline": "2024-09-23"
+  },
+  {
+    "id": 8,
+    "title": "Read a book",
+    "description": "Finish reading 'Atomic Habits' this weekend",
+    "status": "complete",
+    "deadline": "2024-09-17"
+  },
+  {
+    "id": 9,
+    "title": "Organize workspace",
+    "description": "Clean and organize the home office desk",
+    "status": "pending",
+    "deadline": "2024-09-19"
+  },
+  {
+    "id": 10,
+    "title": "Plan weekend getaway",
+    "description": "Research destinations and book a hotel for the weekend",
+    "status": "in_progress",
+    "deadline": "2024-09-30"
+  },
+  {
+    "id": 11,
+    "title": "Study JavaScript",
+    "description": "Complete the ES6 module in the JavaScript course",
+    "status": "pending",
+    "deadline": "2024-09-26"
+  },
+  {
+    "id": 12,
+    "title": "Update resume",
+    "description": "Add recent work experience to resume",
+    "status": "complete",
+    "deadline": "2024-09-18"
+  },
+  {
+    "id": 13,
+    "title": "Fix leaky faucet",
+    "description": "Replace the washer and stop the leak in the kitchen",
+    "status": "pending",
+    "deadline": "2024-09-25"
+  },
+  {
+    "id": 14,
+    "title": "Plan birthday party",
+    "description": "Prepare guest list and order decorations",
+    "status": "in_progress",
+    "deadline": "2024-09-28"
+  },
+  {
+    "id": 15,
+    "title": "Go for a run",
+    "description": "Run 5 kilometers in the park",
+    "status": "complete",
+    "deadline": "2024-09-16"
+  },
+  {
+    "id": 16,
+    "title": "Review meeting notes",
+    "description": "Go over the notes from the client meeting",
+    "status": "pending",
+    "deadline": "2024-09-24"
+  },
+  {
+    "id": 17,
+    "title": "Create presentation",
+    "description": "Prepare the slides for next week's meeting",
+    "status": "in_progress",
+    "deadline": "2024-09-27"
+  },
+  {
+    "id": 18,
+    "title": "Grocery shopping",
+    "description": "Buy fruits and vegetables for the week",
+    "status": "complete",
+    "deadline": "2024-09-13"
+  },
+  {
+    "id": 19,
+    "title": "Paint living room",
+    "description": "Start painting the walls in the living room",
+    "status": "pending",
+    "deadline": "2024-09-29"
+  },
+  {
+    "id": 20,
+    "title": "Respond to emails",
+    "description": "Clear inbox and reply to all pending emails",
+    "status": "complete",
+    "deadline": "2024-09-18"
+  }
+]
